@@ -43,8 +43,8 @@ github: yuthufu
 
 authors:
   johndoe:
-    name: Yuthufu
-    bio: Kwa mwendwo gutiri irima.
+    name: "Yuthufu"
+    bio: "Kwa mwendwo gutiri irima."
     external-image: false
     picture: assets/images/profile.jpg
     twitter: Yuthufu
